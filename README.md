@@ -1,2 +1,4 @@
 # fashionvia
-An ecommerce portal for women apparel and accessories.
+An ecommerce fashion portal for women apparel and accessories.
+
+Built on opencart.
